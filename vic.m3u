@@ -1,0 +1,442 @@
+#EXTM3U url-tvg="https://webarmen.com/my/iptv/xmltv.xml.gz"
+#EXTM3U list-autor="© ProxyBot"
+#OOО "Группа Тауэр-Телеком", г.Волжский робот "Tauer"
+
+#---------------------------- ИНФОРМАЦИОННЫЕ -------------------------------------
+
+#EXTINF:-1 tvch-id="32024" group-title="ИНФОРМАЦИОННЫЕ",ДОЖДЬ HD
+http://46.23.145.69:81/udp/239.1.13.19:1234
+
+#---------------------------- ПОЗНАВАТЕЛЬНЫЕ -------------------------------------
+
+#EXTINF:-1 tvch-id="10009" group-title="ПОЗНАВАТЕЛЬНЫЕ",DISCOVERY CHANNEL HD
+http://31.130.17.34:81/udp/238.1.1.129:1234
+
+#EXTINF:-1 tvch-id="10014" group-title="ПОЗНАВАТЕЛЬНЫЕ",DISCOVERY CHANNEL HD
+http://31.130.17.34:81/udp/238.1.2.129:1234
+
+#EXTINF:-1 tvch-id="10010" group-title="ПОЗНАВАТЕЛЬНЫЕ",NATIONAL GEOGRAPHIC
+http://31.130.17.34:81/udp/238.1.2.17:1234
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NATIONAL GEOGRAPHIC HD
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+http://37.76.169.182:4022/udp/225.33.23.55:5000
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://37.76.169.182:4022/udp/225.33.23.56:5000
+
+#EXTINF:-1 tvch-id="10008" group-title="ПОЗНАВАТЕЛЬНЫЕ",HISTORY 2 HD
+http://31.130.17.34:81/udp/238.1.1.32:1234
+
+#EXTINF:-1 tvch-id="10096" group-title="ПОЗНАВАТЕЛЬНЫЕ",НАУКА
+http://31.130.17.34:81/udp/238.1.2.22:1234
+
+#EXTINF:-1 tvch-id="10100" group-title="ПОЗНАВАТЕЛЬНЫЕ",ИСТОРИЯ
+http://31.130.17.34:81/udp/238.1.2.164:1234
+
+#EXTINF:-1 tvch-id="10104" group-title="ПОЗНАВАТЕЛЬНЫЕ",МОЯ ПЛАНЕТА
+http://31.130.17.34:81/udp/238.1.2.58:1234
+
+#EXTINF:-1 tvch-id="10105" group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+http://31.130.17.34:81/udp/238.1.2.95:1234
+
+#EXTINF:-1 tvch-id="10101" group-title="ПОЗНАВАТЕЛЬНЫЕ",DISCOVERY SCIENCE
+http://31.130.17.34:81/udp/238.1.2.28:1234
+
+#EXTINF:-1 tvch-id="10103" group-title="ПОЗНАВАТЕЛЬНЫЕ",ID INVESTIGATION DISCOVERY
+http://31.130.17.34:81/udp/238.1.2.131:1234
+
+#EXTINF:-1 tvch-id="10107" group-title="ПОЗНАВАТЕЛЬНЫЕ",NAT GEO WILD
+http://31.130.17.34:81/udp/238.1.2.35:1234
+
+#EXTINF:-1 tvch-id="10011" group-title="ПОЗНАВАТЕЛЬНЫЕ",ANIMAL PLANET HD
+http://31.130.17.34:81/udp/238.1.1.131:1234
+
+#EXTINF:-1 tvch-id="10015" group-title="ПОЗНАВАТЕЛЬНЫЕ",ANIMAL PLANET HD 2
+http://31.130.17.34:81/udp/238.1.2.128:1234
+
+#EXTINF:-1 tvch-id="10108" group-title="ПОЗНАВАТЕЛЬНЫЕ",ЗОО ТВ
+http://31.130.17.34:81/udp/238.1.2.114:1234
+
+#EXTINF:-1 tvch-id="10109" group-title="ПОЗНАВАТЕЛЬНЫЕ",ZOOПАРК
+http://31.130.17.34:81/udp/238.1.2.69:1234
+
+#EXTINF:-1 tvch-id="10127" group-title="ПОЗНАВАТЕЛЬНЫЕ",ДОМАШНИЕ ЖИВОТНЫЕ
+http://31.130.17.34:81/udp/238.1.2.53:1234
+
+#EXTINF:-1 tvch-id="10138" group-title="ПОЗНАВАТЕЛЬНЫЕ",WBC
+http://31.130.17.34:81/udp/238.1.2.40:1234
+
+#---------------------------- ХОББИ/ДОСУГ -------------------------------------
+
+#EXTINF:-1 tvch-id="10102" group-title="ХОББИ/ДОСУГ",DTX
+http://31.130.17.34:81/udp/238.1.2.31:1234
+
+#EXTINF:-1 tvch-id="10112" group-title="ХОББИ/ДОСУГ",TLC
+http://31.130.17.34:81/udp/238.1.2.60:1234
+
+#EXTINF:-1 tvch-id="10130" group-title="ХОББИ/ДОСУГ",УСАДЬБА
+http://31.130.17.34:81/udp/238.1.2.52:1234
+
+#EXTINF:-1 tvch-id="10132" group-title="ХОББИ/ДОСУГ",ЗАГОРОДНЫЙ
+http://31.130.17.34:81/udp/238.1.2.151:1234
+
+#EXTINF:-1 tvch-id="10133" group-title="ХОББИ/ДОСУГ",ЗАГОРОДНАЯ ЖИЗНЬ
+http://31.130.17.34:81/udp/238.1.2.75:1234
+
+#EXTINF:-1 tvch-id="10121" group-title="ХОББИ/ДОСУГ",МУЖСКОЙ
+http://31.130.17.34:81/udp/238.1.2.74:1234
+
+#EXTINF:-1 tvch-id="10118" group-title="ХОББИ/ДОСУГ",АВТО 24
+http://31.130.17.34:81/udp/238.1.2.149:1234
+
+#EXTINF:-1 tvch-id="10119" group-title="ХОББИ/ДОСУГ",АВТО ПЛЮС
+http://31.130.17.34:81/udp/238.1.2.89:1234
+
+#EXTINF:-1 tvch-id="10125" group-title="ХОББИ/ДОСУГ",ДРАЙВ
+http://31.130.17.34:81/udp/238.1.2.49:1234
+
+#EXTINF:-1 tvch-id="10128" group-title="ХОББИ/ДОСУГ",ПСИХОЛОГИЯ 21
+http://31.130.17.34:81/udp/238.1.2.54:1234
+
+#EXTINF:-1 tvch-id="10129" group-title="ХОББИ/ДОСУГ",ВОПРОСЫ И ОТВЕТЫ
+http://31.130.17.34:81/udp/238.1.2.55:1234
+
+#EXTINF:-1 tvch-id="10117" group-title="ХОББИ/ДОСУГ",КУХНЯ ТВ
+http://31.130.17.34:81/udp/238.1.2.87:1234
+
+#EXTINF:-1 tvch-id="10012" group-title="ХОББИ/ДОСУГ",FOOD NETWORK HD
+http://31.130.17.34:81/udp/238.1.2.98:1234
+
+#EXTINF:-1 tvch-id="10122" group-title="ХОББИ/ДОСУГ",ОХОТНИК И РЫБОЛОВ
+http://31.130.17.34:81/udp/238.1.2.171:1234
+
+#EXTINF:-1 tvch-id="10123" group-title="ХОББИ/ДОСУГ",ОХОТА И РЫБАЛКА
+http://31.130.17.34:81/udp/238.1.2.50:1234
+
+#---------------------------- РАЗВЛЕКАТЕЛЬНЫЕ -------------------------------------
+
+#EXTINF:-1 tvch-id="10055" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СТС
+http://31.130.17.34:81/udp/238.1.1.73:1234
+
+#EXTINF:-1 tvch-id="10063" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ
+http://31.130.17.34:81/udp/238.1.1.74:1234
+
+#EXTINF:-1 tvch-id="10058" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ПЯТНИЦА
+http://31.130.17.34:81/udp/238.1.1.9:1234
+
+#EXTINF:-1 tvch-id="10003" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СУПЕР
+http://31.130.17.34:81/udp/238.1.2.153:1234
+
+#EXTINF:-1 tvch-id="10066" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2X2
+http://31.130.17.34:81/udp/238.1.2.16:1234
+
+#EXTINF:-1 tvch-id="10092" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
+http://31.130.17.34:81/udp/238.1.2.24:1234
+
+#---------------------------- КИНО/СЕРИАЛЫ -------------------------------------
+
+#EXTINF:-1 tvch-id="10067" group-title="КИНО/СЕРИАЛЫ",A-MEDIA 1
+http://31.130.17.34:81/udp/238.1.2.214:1234
+
+#EXTINF:-1 tvch-id="10068" group-title="КИНО/СЕРИАЛЫ",A-MEDIA 2
+http://31.130.17.34:81/udp/238.1.2.148:1234
+
+#EXTINF:-1 tvch-id="10069" group-title="КИНО/СЕРИАЛЫ",КИНОПОКАЗ
+http://31.130.17.34:81/udp/238.1.2.112:1234
+
+#EXTINF:-1 tvch-id="10070" group-title="КИНО/СЕРИАЛЫ",КИНО ТВ
+http://31.130.17.34:81/udp/238.1.2.192:1234
+
+#EXTINF:-1 tvch-id="10071" group-title="КИНО/СЕРИАЛЫ",КИНОХИТ
+http://31.130.17.34:81/udp/238.1.2.200:1234
+
+#EXTINF:-1 tvch-id="10072" group-title="КИНО/СЕРИАЛЫ",МУЖСКОЕ КИНО
+http://31.130.17.34:81/udp/238.1.2.86:1234
+
+#EXTINF:-1 tvch-id="10073" group-title="КИНО/СЕРИАЛЫ",КИНОМИКС
+http://31.130.17.34:81/udp/238.1.2.133:1234
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",Кинопремьера HD
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",Киносемья
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+
+#EXTINF:-1 tvch-id="10074" group-title="КИНО/СЕРИАЛЫ",КИНОКОМЕДИЯ
+http://31.130.17.34:81/udp/238.1.2.82:1234
+
+#EXTINF:-1 tvch-id="10074" group-title="КИНО/СЕРИАЛЫ",Комедийное HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",ViP Comedy HD
+http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",ViP Megahit
+http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",ViP Premiere
+http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",TV1000
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",TV1000 Action
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",TV1000 Premium
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="КИНО/СЕРИАЛЫ",Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
+
+#EXTINF:-1 tvch-id="10075" group-title="КИНО/СЕРИАЛЫ",РОДНОЕ КИНО
+http://31.130.17.34:81/udp/238.1.2.132:1234
+
+#EXTINF:-1 tvch-id="10076" group-title="КИНО/СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
+http://31.130.17.34:81/udp/238.1.2.134:1234
+
+#EXTINF:-1 tvch-id="10080" group-title="КИНО/СЕРИАЛЫ",ЕВРОКИНО
+http://31.130.17.34:81/udp/238.1.2.102:1234
+
+#EXTINF:-1 tvch-id="10081" group-title="КИНО/СЕРИАЛЫ",FOX
+http://31.130.17.34:81/udp/238.1.2.4:1234
+
+#EXTINF:-1 tvch-id="10082" group-title="КИНО/СЕРИАЛЫ",FOX LIFE
+http://31.130.17.34:81/udp/238.1.2.5:1234
+
+#EXTINF:-1 tvch-id="10083" group-title="КИНО/СЕРИАЛЫ",PARAMOUNT COMEDY
+http://31.130.17.34:81/udp/238.1.2.127:1234
+
+#EXTINF:-1 tvch-id="10084" group-title="КИНО/СЕРИАЛЫ",ИЛЛЮЗИОН+
+http://31.130.17.34:81/udp/238.1.2.68:1234
+
+#EXTINF:-1 tvch-id="10085" group-title="КИНО/СЕРИАЛЫ",ФЕНИКС+ КИНО
+http://31.130.17.34:81/udp/238.1.2.137:1234
+
+#EXTINF:-1 tvch-id="10086" group-title="КИНО/СЕРИАЛЫ",РУССКИЙ ИЛЛЮЗИОН
+http://31.130.17.34:81/udp/238.1.2.67:1234
+
+#EXTINF:-1 tvch-id="10087" group-title="КИНО/СЕРИАЛЫ",РУССКИЙ БЕСТСЕЛЛЕР
+http://31.130.17.34:81/udp/238.1.2.213:1234
+
+#EXTINF:-1 tvch-id="10088" group-title="КИНО/СЕРИАЛЫ",РУССКИЙ РОМАН
+http://31.130.17.34:81/udp/238.1.2.38:1234
+
+#EXTINF:-1 tvch-id="10089" group-title="КИНО/СЕРИАЛЫ",НАШЕ ЛЮБИМОЕ КИНО
+http://31.130.17.34:81/udp/238.1.2.138:1234
+
+#EXTINF:-1 tvch-id="10090" group-title="КИНО/СЕРИАЛЫ",КИНОСЕРИЯ
+http://31.130.17.34:81/udp/238.1.2.85:1234
+
+#EXTINF:-1 tvch-id="10091" group-title="КИНО/СЕРИАЛЫ",CINEMA
+http://31.130.17.34:81/udp/238.1.2.105:1234
+
+#---------------------------- МУЗЫКАЛЬНЫЕ -------------------------------------
+
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Наше ТВ
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+
+#EXTINF:-1 tvch-id="10017" group-title="МУЗЫКАЛЬНЫЕ",ТНТ MUSIC
+http://31.130.17.34:81/udp/238.1.1.13:1234
+
+#EXTINF:-1 tvch-id="10018" group-title="МУЗЫКАЛЬНЫЕ",EUROPA PLUS TV
+http://31.130.17.34:81/udp/238.1.1.67:1234
+
+#EXTINF:-1 tvch-id="10022" group-title="МУЗЫКАЛЬНЫЕ",MTV ROCKS
+http://31.130.17.34:81/udp/238.1.2.33:1234
+
+#EXTINF:-1 tvch-id="10019" group-title="МУЗЫКАЛЬНЫЕ",RU TV
+http://31.130.17.34:81/udp/238.1.1.35:1234
+
+#EXTINF:-1 tvch-id="10020" group-title="МУЗЫКАЛЬНЫЕ",ШАНСОН ТВ
+http://31.130.17.34:81/udp/238.1.2.143:1234
+
+#EXTINF:-1 tvch-id="10023" group-title="МУЗЫКАЛЬНЫЕ",VH-1 EUROPEAN
+http://31.130.17.34:81/udp/238.1.2.20:1234
+
+#EXTINF:-1 tvch-id="10024" group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV DANGE 
+http://31.130.17.34:81/udp/238.1.2.228:1234
+
+#EXTINF:-1 tvch-id="10026" group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV CLASSIC
+http://31.130.17.34:81/udp/238.1.2.228:1234
+
+#EXTINF:-1 tvch-id="10027" group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV РУССКИЙ ХИТ
+http://31.130.17.34:81/udp/238.1.2.63:1234
+
+#EXTINF:-1 tvch-id="10028" group-title="МУЗЫКАЛЬНЫЕ",MUSIC BOX RUSSIAN
+http://31.130.17.34:81/udp/238.1.2.117:1234
+
+#EXTINF:-1 tvch-id="10030" group-title="МУЗЫКАЛЬНЫЕ",МУЗ ТВ
+http://31.130.17.34:81/udp/238.1.1.127:1234
+
+#EXTINF:-1 tvch-id="10031" group-title="МУЗЫКАЛЬНЫЕ",ЖАРА
+http://31.130.17.34:81/udp/238.1.2.11:1234
+
+#EXTINF:-1 tvch-id="10095" group-title="МУЗЫКАЛЬНЫЕ",О!2
+http://31.130.17.34:81/udp/238.1.2.140:1234
+
+#---------------------------- ДЕТСКИЕ -------------------------------------
+
+#EXTINF:-1 tvch-id="10035" group-title="ДЕТСКИЕ",КАРУСЕЛЬ
+http://31.130.17.34:81/udp/238.1.1.81:1234
+
+#EXTINF:-1 tvch-id="10036" group-title="ДЕТСКИЕ",DISNEY CHANNEL
+http://31.130.17.34:81/udp/238.1.2.3:1234
+
+#EXTINF:-1 tvch-id="10037" group-title="ДЕТСКИЕ",NICKELODEON
+http://31.130.17.34:81/udp/238.1.2.66:1234
+
+#EXTINF:-1 tvch-id="10038" group-title="ДЕТСКИЕ",NICK JR.
+http://31.130.17.34:81/udp/238.1.2.8:1234
+
+#EXTINF:-1 tvch-id="10039" group-title="ДЕТСКИЕ",CARTOON NETWORK
+http://31.130.17.34:81/udp/238.1.2.18:1234
+
+#EXTINF:-1 tvch-id="10040" group-title="ДЕТСКИЕ",МУЛЬТИМАНИЯ
+http://31.130.17.34:81/udp/238.1.2.59:1234
+
+#EXTINF:-1 tvch-id="10041" group-title="ДЕТСКИЕ",МУЛЬТ
+http://31.130.17.34:81/udp/238.1.2.161:1234
+
+#EXTINF:-1 tvch-id="10042" group-title="ДЕТСКИЕ",ДЕТСКИЙ
+http://31.130.17.34:81/udp/238.1.2.65:1234
+
+#EXTINF:-1 tvch-id="10043" group-title="ДЕТСКИЕ",РЫЖИЙ
+http://31.130.17.34:81/udp/238.1.2.170:1234
+
+#EXTINF:-1 tvch-id="10044" group-title="ДЕТСКИЕ",ДЕТСКИЙ МИР
+http://31.130.17.34:81/udp/238.1.2.141:1234
+
+#---------------------------- Взрослые 18+ -------------------------------------
+
+#EXTINF:-1 group-title="Взрослые 18+",Русская Ночь
+http://178.124.183.5/hls/F7UMYQMCGB/variant.m3u8
+
+#EXTINF:-1 tvch-id="1271" group-title="Взрослые 18+",O-LA-LA
+http://212.19.19.69:999/udp/239.191.254.161:15285
+
+#EXTINF:-1 group-title="Взрослые 18+",Pornstar HD
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Shemale Tube TV 2
+http://www.ast.tv/stream/2/master.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Babestation 2
+https://ss3.firestormmedia.tv/cellcast2/smil:encoder3.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Babestation Xtra
+https://ss4.firestormmedia.tv/cellcast2/smil:encoder7.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Jasmin TV HD
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Miami TV Colombia
+http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Nuart TV
+http://178.124.183.5/hls/CH_NYARTTV/variant.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Babestation Xtreme
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Big Tits HD
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Blue Hustler
+http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Hardcore HD
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Interracial HD
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/interracial.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Latina HD
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/latina.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Lesbian
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/lesbian.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",MILF
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",POV
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Rough
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Russian
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Teen
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Livecams
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Webcam 1
+http://5b33420f79f5f.streamlock.net:1935/freecamssecure/103/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Webcam 2
+http://5b33420f79f5f.streamlock.net:1935/freecamssecure/101/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",NYX Media 1
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",NYX Media 2
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",AST TV HD
+https://www.ast.tv/stream/1/high.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Shemale Tube TV
+https://www.ast.tv/stream/1/high.m3u8
+
+#EXTINF:-1 group-title="Взрослые 18+",Shemale Tube TV 2
+https://www.ast.tv/stream/2/high.m3u8
